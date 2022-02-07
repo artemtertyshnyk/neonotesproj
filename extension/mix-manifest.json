@@ -1,0 +1,6 @@
+{
+    "/dist/js/background.js": "/dist/js/background.js",
+    "/dist/js/foreground.js": "/dist/js/foreground.js",
+    "/dist/js/popup.js": "/dist/js/popup.js",
+    "/dist/css/highlight.css": "/dist/css/highlight.css"
+}
